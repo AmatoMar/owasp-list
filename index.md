@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "OWASP TOP 10 Projects"
 ---
 ## 🗂️ Tutte le Classifiche OWASP "Top 10" (Estese)
