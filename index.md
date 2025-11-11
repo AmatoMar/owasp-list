@@ -34,7 +34,7 @@ Classifiche focalizzate sui rischi relativi a dispositivi, cloud e ambienti fisi
 | :--- | :--- | :--- | :--- |
 | **OWASP Mobile Top 10** | **Applicazioni Mobili** (iOS/Android) | 2024 | [**owasp.org/www-project-mobile-top-10/**](https://owasp.org/www-project-mobile-top-10/) |
 | **OWASP Internet of Things (IoT) Top 10** | **Dispositivi e Firmware IoT** | 2018 | [**owasp.org/www-project-internet-of-things/**](https://owasp.org/www-project-internet-of-things/) |
-| **OWASP Cloud Native Top 10** | **Architetture Cloud Native** (e.g., Kubernetes) | 2024 (RC) | [**owasp.org/www-project-cloud-native-top-10/**](https://owasp.org/www-project-cloud-native-top-10/) |
+| **OWASP Cloud Native Top 10** | **Architetture Cloud Native** (e.g., Kubernetes) | 2024 (RC) | [**owasp.org/www-project-cloud-native-top-10/**](https://owasp.org/www-project-cloud-native-application-security-top-10/) |
 
 ### ⚠️ Progetti Archiviati/Legacy
 
