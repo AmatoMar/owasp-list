@@ -22,7 +22,7 @@ Queste classifiche sono state create per affrontare i rischi emergenti in ambien
 | Nome della Classifica | Settore di Rischio | Ultima Versione Rilevante | Link Ufficiale OWASP |
 | :--- | :--- | :--- | :--- |
 | **OWASP API Security Top 10** | **API** (Application Programming Interface) | 2023 | [**owasp.org/www-project-api-security/**](https://owasp.org/www-project-api-security/) |
-| **OWASP Top 10 for LLM Applications** | **Applicazioni basate su IA Generativa** | V1.1 (attuale) | [**owasp.org/www-project-top-10-for-llm-applications/**](https://owasp.org/www-project-top-10-for-llm-applications/) |
+| **OWASP Top 10 for LLM Applications** | **Applicazioni basate su IA Generativa** | V1.1 (attuale) | [**owasp.org/www-project-top-10-for-llm-applications/**](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
 | **OWASP Serverless Top 10** | **Applicazioni Serverless** e FaaS | 2020 | [**owasp.org/www-project-serverless-top-10/**](https://owasp.org/www-project-serverless-top-10/) |
 | **OWASP SAMM Top 10 Security Issues** | **Deficienze nei Modelli di Maturità** | (Aggiornamento continuo) | [**owasp.org/www-project-samm/knowledge-base/top-10-security-issues/**](https://owasp.org/www-project-samm/knowledge-base/top-10-security-issues/) |
 
