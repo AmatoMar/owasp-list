@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "OWASP TOP 10 Projects"
-permalink: /owasp-list
 ---
 ## 🗂️ Tutte le Classifiche OWASP "Top 10" (Estese)
 
